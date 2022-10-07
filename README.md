@@ -1,3 +1,3 @@
-##This is for Introduction
-##This is specially for dev1 branch nothing else.
+## This is for Introduction
+## Now we will be hosting github page.
 ## We love Python.
